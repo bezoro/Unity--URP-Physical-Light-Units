@@ -1,0 +1,16 @@
+{
+    "name": "com.nebula-bytes-studios.urp-plu-converter",
+    "version": "1.0.0",
+    "displayName": "URP PLU Converter",
+    "description": "Light Intensity converter via PLU (Physical Light Units) for URP",
+    "unity": "2022.3",
+   "keywords": [
+      "URP",
+      "PLU",
+      "Light",
+      "Intensity"
+    ],
+    "author": {
+      "name": "Nebula Bytes Studios"
+    }
+  }
